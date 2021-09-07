@@ -6,6 +6,6 @@ You might face some trouble starting the game(Cursor not visible) so ensure that
 Note: Only Mac version of the Application supports Ray Tracing. Windows will soon support raytracing as well. 
 
 Only one UFO spawn location is added as of now and and many more random location + speed variablitity will be added soon. 
-As of now it supports only one graphic level many((Ultra HD) Frame issues on Slow Computers)
+As of now it supports only one graphic level ((Ultra HD) Frame issues on Slow Computers(Many to Come))
 
 To Exit the Game just press Esc, Esc wont work on menu.
